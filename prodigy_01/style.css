@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, sans-serif;
+    max-width: 300px;
+    margin: 50px auto;
+    padding: center;
+    color: #eee;
+    background-color: #a5b1c2;
+}
+
+.container{
+    background-color: #1e272e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 20px 25px rgba(0, 0, 0, 0.5);
+}
+
+h2{
+    color: #4CAF50;
+}
+
+input, select, button{
+    padding: 8px;
+    margin: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+button{
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #45a049;
+}
